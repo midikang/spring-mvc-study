@@ -8,8 +8,8 @@
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
 
 	<!-- Maps '/' requests to the 'home' view -->
-	<mvc:view-controller path="/" view-name="home"/>
+	<mvc:view-controller path="/" view-name="home_2"/>
 	
-	<context:component-scan base-package="com.infosys.sample.mvc" />
+	<context:component-scan base-package="com.infosys.samples.mvc" />
 	 
 </beans>

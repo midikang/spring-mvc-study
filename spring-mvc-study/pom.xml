@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.springframework.samples</groupId>
-	<artifactId>spring-mvc-showcase</artifactId>
-	<name>spring-mvc-showcase</name>
+	<groupId>com.infosys.samples</groupId>
+	<artifactId>spring-mvc-study</artifactId>
+	<name>spring-mvc-study</name>
 	<packaging>war</packaging>
-	<version>1.0.0-BUILD-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<properties>
 		<java-version>1.7</java-version>
 		<org.springframework-version>4.2.2.RELEASE</org.springframework-version>
