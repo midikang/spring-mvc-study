@@ -13,5 +13,10 @@ public class SimpleController {
 	public @ResponseBody String simple() {
 		return "Hello world!";
 	}
+	
+	@RequestMapping("/response")
+	public @ResponseBody String response() {
+		return "<h1>Hello world!</h1>";
+	}
 
 }
